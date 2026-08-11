@@ -11,7 +11,7 @@ Simple. Short beats thorough. A good doc answers three things:
 1. What are we building or solving, and why is it worth doing now? Not every doc fixes a problem, some propose something entirely new, but either way it should be clear why we'd spend time on it.
 2. How do we plan to do it?
     - Core mechanics
-    - Intergrations with other systems
+    - Integrations with other systems
     - Possible breaking changes
     - Adoption problems
 3. What did we consider and reject, and why?
